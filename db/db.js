@@ -4,7 +4,8 @@ import moment from "moment/moment.js";
 const { Schema } = mongoose;
 
 mongoose.set("strictQuery", false);
-export const uri = "mongodb://127.0.0.1:27017/task4";
+export const uri =
+  "mongodb+srv://Abdulboriy:MongoDB@cluster0.mpywc.mongodb.net/?retryWrites=true&w=majority/task4";
 
 connect(uri);
 
