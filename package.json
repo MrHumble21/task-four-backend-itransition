@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "nodemon server.js",
-    "install": "yarn"
+    "install": "npm install"
   },
   "dependencies": {
     "body-parser": "^1.20.1",
