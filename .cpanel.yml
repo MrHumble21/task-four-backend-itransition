@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=repositories/task-four-backend-itransition
+    - /bin/cp -R repositories/task-four-backend-itransition
