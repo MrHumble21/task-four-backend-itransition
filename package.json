@@ -17,9 +17,6 @@
     "jsonwebtoken": "^9.0.0",
     "moment": "^2.29.4",
     "mongodb": "^4.13.0",
-    "mongoose": "^6.9.0",
-    "mysql2": "^3.0.1",
-    "sequelize": "^6.28.0",
-    "sqlite3": "^5.1.4"
+    "mongoose": "^6.9.0"
   }
 }
