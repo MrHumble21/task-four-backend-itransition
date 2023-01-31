@@ -2,7 +2,7 @@ import express from "express";
 import { User } from "./db/db.js";
 import dotenv from "dotenv";
 import bodyParser from "body-parser";
-// middile wares
+
 import cors from "cors";
 import moment from "moment";
 
